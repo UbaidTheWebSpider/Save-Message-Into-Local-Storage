@@ -1,0 +1,25 @@
+body{
+    background-color: steelblue;
+}
+h1, h2 {
+    text-align: center;
+    color: white;
+}
+small{
+    color: white;
+    
+}
+
+#content {
+    margin-top: 40px;
+}
+#tweet-list{
+    color: white;
+}
+.remove-tweet,
+.remove-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
